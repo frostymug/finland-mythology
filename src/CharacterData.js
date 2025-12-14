@@ -19,7 +19,7 @@ export const characters = {
         { name: "Hearthcraft", description: "the making of home in cold places" },
         { name: "The Radical Thread", description: "the courage to pull at threads others leave alone" }
       ],
-      personalityBlend: "Maarenkehrä carries the conviction of someone who has seen how systems work and refuses to look away. She is warm but uncompromising—she will sit with you by the fire and knit while explaining exactly why something you believe is wrong, and somehow you will not feel attacked, only illuminated. She chose the harder path (the cold North, the complex studies, the questions without easy answers) not because she seeks difficulty but because she cannot pretend the easy path leads somewhere true. Her craft—the literal knitting, the metaphorical weaving of ideas—is how she processes the world. Watch her hands when she thinks.",
+      personalityBlend: "Maarenkehrä carries the conviction of someone who has seen how systems work and refuses to look away. She is warm but uncompromising—she will sit with you by the fire and knit while explaining exactly why something you believe might not be true. And somehow, you will not feel challenged or attacked, only illuminated. She chose the harder path (the cold North, the complex studies, the questions without easy answers) not because she seeks difficulty but because she cannot pretend the easy path leads somewhere true. Her craft—the literal knitting, the metaphorical weaving of ideas—is how she processes the world. Watch her hands when she thinks.",
       mythologyDeepDive: {
         finnishSources: "In the Kalevala, the Maiden of Pohjola is first seen by Väinämöinen 'sitting on a rainbow, weaving golden cloth, spinning silver thread' (Runo 8). Weaving and spinning are associated with feminine power throughout Finnish mythology—creation through patient craft. The North (Pohjola) itself is depicted as a place of powerful women; Louhi, its mistress, is arguably the most formidable figure in the entire epic, more dangerous than any male hero.",
         inventedElements: "Maarenkehrä as a figure who chose Pohjola rather than being born to it is our invention. In the original mythology, the boundary between North and South is more fixed—you are of one place or the other. A southerner who becomes northern, who weaves herself into Pohjola's fabric, is a new kind of figure. Her connection to Guatemalan weaving traditions is also, obviously, invention—but it reflects the real global scope of sustainability work and honors her actual thesis research.",
@@ -94,7 +94,7 @@ export const characters = {
         thematicConnections: "The three-year progression from redshirt to special teams to starter mirrors the structure of impossible tasks in the Kalevala: you must complete one before you're given the next, and completion of all three earns you your place. Toby's mechanical engineering studies literalize the smith connection—he is learning to shape metal and systems, to understand how forces move through structures. The stoic philosophy his coaches teach is, in essence, Ilmarinen's philosophy: you control the strike, not the outcome."
       },
       symbolicElements: {
-        animals: "To be determined",
+        animals: "Iron Bear, Fiery Eagle, Copper Lizard: Finnish runic songs speak of magical creatures like an 'iron bear, fiery eagle, copper lizard' that are born in divine realms.",
         objects: "The forge hammer, the bellows, engineered mechanisms, a football",
         naturalElements: "Fire (the forge), iron and metal, the stark landscape of the Western Reaches (Black Hills, prairie)",
         colors: "Forge orange, ember red, iron grey, soot black"
@@ -128,7 +128,7 @@ export const characters = {
         thematicConnections: "There's a quiet counter-narrative in Zane's story compared to his siblings: Maren went far (Finland), Toby went to prove himself (the forge), but Zane has stayed close and turned inward. His journey is vertical—toward the sacred, toward depth—rather than horizontal across distance. This is its own kind of courage. The 'first light' framing also connects to his age: at 17, almost 18, he's at the dawn of adult life. Everything is still becoming. The light is real but the full day hasn't arrived."
       },
       symbolicElements: {
-        animals: "To be determined—perhaps something associated with dawn or watchfulness",
+        animals: "The Crane (Kurki) is the bird of the morning in Finnish mythology. It is a messenger of the gods and a symbol of wisdom and guidance.",
         objects: "No single talisman—his practices themselves are his sacred objects",
         naturalElements: "Dawn light, the eastern horizon, the quiet hour before the house wakes",
         colors: "Pre-dawn blue, pale gold, soft grey, emerging warmth"

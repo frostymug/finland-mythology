@@ -18,7 +18,7 @@ const MythologyMap = () => {
     {
       id: 'middle-lands',
       name: 'The Middle Lands',
-      subtitle: 'The Land of the Home Waters',
+      subtitle: 'The Place of the Home Waters',
       characters: ['Runoantti', 'Mielilintu', 'Saaniaamu'],
       characterSubtitles: ['Word-Father', 'Wild Wing, Tethered Heart', 'Seeker of First Light'],
       description: 'Where the Word-Father, the Wild Wing, and the Seeker begin',
