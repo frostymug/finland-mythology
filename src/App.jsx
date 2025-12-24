@@ -2,6 +2,7 @@ import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import MythologyMap from './MythologyMap';
 import CharacterPage from './CharacterPage';
+import GroupPicturePage from './GroupPicturePage';
 
 const router = createBrowserRouter([
   {
@@ -11,6 +12,10 @@ const router = createBrowserRouter([
   {
     path: '/character/:characterId',
     element: <CharacterPage />,
+  },
+  {
+    path: '/group',
+    element: <GroupPicturePage />,
   },
 ]);
 
