@@ -143,7 +143,7 @@ const GroupPicturePage = () => {
           marginBottom: '1rem',
           letterSpacing: '0.05em'
         }}>
-          The Family
+          The Merry Band
         </h1>
         <p style={{
           fontSize: '1rem',

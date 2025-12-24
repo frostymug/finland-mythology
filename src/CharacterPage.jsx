@@ -412,6 +412,21 @@ const CharacterPage = () => {
           >
             ← Return to the map
           </Link>
+          <div style={{ marginTop: '0.35rem' }}>
+            <Link
+              to="/group"
+              style={{
+                color: '#c9a227',
+                textDecoration: 'none',
+                fontSize: '1rem',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '0.5rem'
+              }}
+            >
+              View the group picture →
+            </Link>
+          </div>
         </footer>
       </main>
     </div>
